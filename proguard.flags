@@ -6,3 +6,5 @@
 -keep class android.telecom.Log {
   *;
 }
+
+-dontwarn org.codehaus.mojo.**
